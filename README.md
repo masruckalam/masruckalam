@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Masruck Alam Ashik
 #### Academic Researcher
-![Academic Researcher](https://media.licdn.com/dms/image/C5616AQGMXGhiE0SuyA/profile-displaybackgroundimage-shrink_350_1400/0/1616315099616?e=1705536000&v=beta&t=-mf6SQODyvP1rBDuVj8Qj5iL7Rf1jnaIX2cg73xt5u0)
+![Academic Researcher](https://scontent.fhkg3-2.fna.fbcdn.net/v/t39.30808-6/391667065_2686340611520693_2639896827130550724_n.jpg?stp=c0.116.1698.1698a_cp6_dst-jpg_s851x315&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=EsXYvr8o96oAX9OIwHD&_nc_ht=scontent.fhkg3-2.fna&oh=00_AfAIs-te3yg9DHqePe15lJOVuBa5CV6yL6w8rAS5uDMT6A&oe=655D6E3B)
 
 Masruck Alam completed his bachelor's studies in Applied Chemistry and Chemical Engineering at the University of Rajshahi in 2020. He achieved an MPhil degree from the Department of Biomedical Engineering at the Chinese University of Hong Kong (CUHK) in July 2023. Currently, he has been admitted as a PhD student in the Biomedical Engineering department at CUHK. His research interests encompass electronic biosensors, biomaterials, and the chemical vapor deposition (CVD) synthesis of carbon nanotubes (CNT), graphene, and hexagonal boron nitride (hBN).
 
@@ -22,5 +22,4 @@ Skills: Biosensors, CVD (CNT, graphene, hBN), Advanced Materials, AFM, Raman Spe
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=masruckalam)  
 
-![Profile views](https://gpvc.arturio.dev/masruckalam)  
 ![Profile views](https://gpvc.arturio.dev/masruckalam)  
