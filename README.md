@@ -1,16 +1,14 @@
-### Hi there this is Masruck Alam Ashik👋
+### Hi there 👋, My name is Masruck Alam Ashik
+#### Academic Researcher
+![Academic Researcher](https://www.linkedin.com/in/masruck-a-b0a22713b/)
 
-<!--
-**masruckalam/masruckalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Masruck Alam completed his bachelor's studies in Applied Chemistry and Chemical Engineering at the University of Rajshahi in 2020. He achieved an MPhil degree from the Department of Biomedical Engineering at the Chinese University of Hong Kong (CUHK) in July 2023. Currently, he has been admitted as a PhD student in the Biomedical Engineering department at CUHK. His research interests encompass electronic biosensors, biomaterials, and the chemical vapor deposition (CVD) synthesis of carbon nanotubes (CNT), graphene, and hexagonal boron nitride (hBN).
 
-Here are some ideas to get you started:
+Skills: Biosensors, CVD (CNT, graphene, hBN), Advanced Materials, AFM, Raman Spectroscopy, TEM, SEM, Nano and Microfabrication, Layout Design, SolidWorks, Autodesk3ds Max, Python, R
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on CVD Synthesis of sSWCNT and FET device fabrication for bio-sensing application 
+- 📫 How to reach me: masruckalam@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/masruckalam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/masruck-a-b0a22713b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/masruckalam.ashik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/m_alam_ashik/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/masruckalam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='40'>](https://www.researchgate.net/profile/Masruck-Alam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg' alt='googlescholar' height='40'>](https://scholar.google.com/citations?user=A6lXv0QAAAAJ&hl=en)  
+
