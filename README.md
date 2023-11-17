@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Masruck Alam Ashik
 #### Academic Researcher
-[Academic Researcher](https://scholar.google.com/citations?user=A6lXv0QAAAAJ&hl=en)
+(https://media.licdn.com/dms/image/C5616AQGMXGhiE0SuyA/profile-displaybackgroundimage-shrink_350_1400/0/1616315099616?e=1705536000&v=beta&t=-mf6SQODyvP1rBDuVj8Qj5iL7Rf1jnaIX2cg73xt5u0)
 
 Masruck Alam completed his bachelor's studies in Applied Chemistry and Chemical Engineering at the University of Rajshahi in 2020. He achieved an MPhil degree from the Department of Biomedical Engineering at the Chinese University of Hong Kong (CUHK) in July 2023. Currently, he has been admitted as a PhD student in the Biomedical Engineering department at CUHK. His research interests encompass electronic biosensors, biomaterials, and the chemical vapor deposition (CVD) synthesis of carbon nanotubes (CNT), graphene, and hexagonal boron nitride (hBN).
 
