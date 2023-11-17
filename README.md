@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Masruck Alam Ashik
+### This is Masruck Alam Ashik
 #### Academic Researcher
 ![Academic Researcher](https://scontent.fhkg3-2.fna.fbcdn.net/v/t39.30808-6/391667065_2686340611520693_2639896827130550724_n.jpg?stp=c0.116.1698.1698a_cp6_dst-jpg_s851x315&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=EsXYvr8o96oAX9OIwHD&_nc_ht=scontent.fhkg3-2.fna&oh=00_AfAIs-te3yg9DHqePe15lJOVuBa5CV6yL6w8rAS5uDMT6A&oe=655D6E3B)
 
